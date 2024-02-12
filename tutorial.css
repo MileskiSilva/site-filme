@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+a {
+  padding: 40px;
+}
 .container-slider {
   display: flex;
   width: 100%;
